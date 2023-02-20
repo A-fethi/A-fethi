@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/abdufet49" target="blank"><img src="https://img.shields.io/twitter/follow/abdufet49?logo=twitter&style=for-the-badge" alt="abdufet49" /></a> </p>
 
-- 🌱 I’m currently learning **Software Engineering**
+- 🌱 I’m currently learning **Software Engineering Program**
 
 - 📫 How to reach me **fethiabderrahmane1@gmail.com**
 
