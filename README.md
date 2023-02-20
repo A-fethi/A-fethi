@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/abdufet49" target="blank"><img src="https://img.shields.io/twitter/follow/abdufet49?logo=twitter&style=for-the-badge" alt="abdufet49" /></a> </p>
 
-- 🌱 I’m currently learning **Software Engineering Program**
+- 🌱 I’m currently learning **Software Engineering**
 
 - 📫 How to reach me **fethiabderrahmane1@gmail.com**
 
@@ -22,6 +22,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-fethi&show_icons=true&locale=en&layout=compact" alt="a-fethi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a-fethi&show_icons=true&locale=en" alt="a-fethi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a-fethi&show_icons=true&theme=tokyonight&locale=en" alt="a-fethi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a-fethi&" alt="a-fethi" /></p>
