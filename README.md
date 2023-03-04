@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-fethi" alt="a-fethi" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/abdufet49" target="blank"><img src="https://img.shields.io/twitter/follow/abdufet49?logo=twitter&style=for-the-badge" alt="abdufet49" /></a> </p>
-
 - 🌱 I’m currently learning **Software Engineering Program**
 
 - 📫 How to reach me **fethiabderrahmane1@gmail.com**
