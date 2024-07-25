@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm FETHI Abderrahmane</h1>
-<h3 align="center">ALX Software Engineering Student from MOROCCO</h3>
+<h3 align="center">Zone01 Oujda Talent from MOROCCO</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-fethi" alt="a-fethi" /></a> </p>
 
