@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-fethi" alt="a-fethi" /></a> </p>
 
-- 🌱 I’m currently learning **Software Engineering Program**
+- 🌱 I’m currently learning **Full Stack Program**
 
 - 🔭 I’m currently working on [ascii-art](https://github.com/A-fethi/ascii-art)
 
