@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack Program**
 
-- 🔭 I’m currently working on [ascii-art](https://github.com/A-fethi/ascii-art)
+- 🔭 I’m currently working on [ascii-art-output](https://github.com/A-fethi/ascii-art/tree/main/output)
 
 - 📫 How to reach me **fethiabderrahmane1@gmail.com**
 
