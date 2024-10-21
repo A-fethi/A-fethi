@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack Program**
 
-- 🔭 I’m currently working on [Groupie-tracker](https://github.com/A-fethi/groupie-tracker)
+- 🔭 I’m currently working on [net-cat](https://github.com/A-fethi/net-cat)
 
 - 📫 How to reach me **fethiabderrahmane1@gmail.com**
 
