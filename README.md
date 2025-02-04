@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack Program**
 
-- 🔭 I’m currently working on [forum](https://github.com/A-fethi/make-your-game)
+- 🔭 I’m currently working on [make your game](https://github.com/A-fethi/make-your-game)
 
 - 📫 How to reach me **fethiabderrahmane1@gmail.com**
 
