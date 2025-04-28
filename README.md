@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack Program**
 
-- 🔭 I’m currently working on [Real Time Forum](https://github.com/A-fethi/real-time-forum)
+- 🔭 I’m currently working on [mini framework](https://github.com/A-fethi/mini-framework)
 
 - 📫 How to reach me **fethiabderrahmane1@gmail.com**
 
