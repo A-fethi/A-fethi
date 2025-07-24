@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack Program**
 
-- 🔭 I’m currently working on [Bomberman DOM](https://github.com/A-fethi/bomberman-dom)
+- 🔭 I’m currently working on [piscine rust](https://github.com/A-fethi/piscine-rust)
 
 - 📫 How to reach me **fethiabderrahmane1@gmail.com**
 
