@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack Program**
 
-- 🔭 I’m currently working on [0-shell](https://github.com/DevZAKRI/0-shell)
+- 🔭 I’m currently working on [0-shell](https://github.com/A-fethi/0-shell)
 
 - 📫 How to reach me **fethiabderrahmane1@gmail.com**
 
