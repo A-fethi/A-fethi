@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Full Stack Program<br>🔭 I’m currently working on [Crud Master](https://github.com/madaghaxx/crud-master)<br>📫 How to reach me fethiabderrahmane1@gmail.com<br>⚡ Fun fact I Won't Tell You 😅🤪
+🌱 I’m currently learning DevOps Speciality<br>🔭 I’m currently working on [play-with-containers](https://github.com/A-fethi/play-with-containers)<br>📫 How to reach me fethiabderrahmane1@gmail.com<br>⚡ Fun fact I Won't Tell You 😅🤪
 
 <img src="https://media.tenor.com/Ug6cbVA1ZsMAAAAC/developer.gif" alt="">
 
