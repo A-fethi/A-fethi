@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning DevOps Speciality<br>🔭 I’m currently working on [code-keeper](https://github.com/A-fethi/code-keeper)<br>📫 How to reach me fethiabderrahmane1@gmail.com<br>⚡ Fun fact I Won't Tell You 😅🤪
+🌱 I’m currently DevOps Cloud Engineer<br>📫 How to reach me fethiabderrahmane1@gmail.com<br>⚡ Fun fact I Won't Tell You 😅🤪
 
 <img src="https://media.tenor.com/Ug6cbVA1ZsMAAAAC/developer.gif" alt="">
 
