@@ -1,6 +1,7 @@
 # 💫 About Me:
 🌱 I’m currently DevOps Cloud Engineer<br>📫 How to reach me fethiabderrahmane1@gmail.com<br>⚡ Fun fact I Won't Tell You 😅🤪
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=650&lines=DevOps+%26+Cloud+Infrastructure+Engineer;Automating+deployments+with+Terraform+%26+Ansible;Building+resilient+CI%2FCD+pipelines+on+AWS)](https://git.io/typing-svg)
 <img src="https://media.tenor.com/Ug6cbVA1ZsMAAAAC/developer.gif" alt="">
 
 ## 🌐 Socials:
